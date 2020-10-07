@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Haden Liu</title>
+    <link>https://haden-liu.github.io/Haden_Portfoilo_2/post/</link>
+    <description>Recent content in Projects on Haden Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://haden-liu.github.io/Haden_Portfoilo_2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capstone Project - Supervised Learning Based Prediction on Commerical Flight Delaying</title>
+      <link>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-5/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-5/</guid>
+      <description>In my final project of DSI course, I choose the US cities flight records data during Janaury 2020. I used various classification algorithms to get the feature importances on factors that have impact to predict whether a future flight will be delayed. I also attempted the NLP techniques to calculate the feature importances of features with object datatype and see their impacts on the delaying status of flight.  Link to Github Repo</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Web Scraping Job Postings</title>
+      <link>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-4/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-4/</guid>
+      <description> In this project, I used BeautifulSoup package to scrap the data science job details from Indeed website. I also applied NLP techniques such as TF/IDF models to doing feature importance analysis on the factors impact on the job classification and salary  Link to Github Repo
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 3: Regression and classification with housing data</title>
+      <link>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-3/</link>
+      <pubDate>Mon, 05 Oct 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-3/</guid>
+      <description>This project focuses on to apply the linear regression models with regualarization (Lasso &amp;amp; Ridge), as well as the feature re-engineering techniques to predict the housing sales prices, and obtain the feature importance with coefficient calculation  Link to Github Repo</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Civic data analysis</title>
+      <link>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-2/</link>
+      <pubDate>Mon, 05 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-2/</guid>
+      <description>This project focuses on to visualize insights of data and hypothesis Test Analysis with Technologies:
+ Python packages: Numpy, scipy.stats, seaborn, matplotlib, pandas Statistics: hypothesis test, Outlier Analysis, Spearman Correlation  Link to Github Repo
+  </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Game programming and analysis</title>
+      <link>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-1/</link>
+      <pubDate>Mon, 05 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://haden-liu.github.io/Haden_Portfoilo_2/post/project-1/</guid>
+      <description> In this project, I created and modified the elements and features with Python data structures and control flow to assist the online gaming development.  Link to Github Repo
+  </description>
+    </item>
+    
+  </channel>
+</rss>
